@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+sentence-transformers>=5,<7
+chromadb>=1,<2
+pypdf>=6,<7
+huggingface_hub>=0.30,<2
+python-dotenv>=1,<2
